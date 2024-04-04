@@ -17,7 +17,6 @@ function selecionaChamp(comp) {
     comp.push(campeaoSelecionado)
 
 
-    console.log(campeaoSelecionado);
 }
 let i = 0
  while(i <= 9){
