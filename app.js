@@ -16,7 +16,7 @@ const app = express();
 
 routes(app);
 
-app.get()
+app.use(conectaDataBase)
 
 export default app;
 
